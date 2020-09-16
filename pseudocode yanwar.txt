@@ -1,0 +1,18 @@
+Memilih menu makanan, kemudian menentukan jumlah yang ingin dibeli, kemudian dimunculkan total harganya
+1.Bakso = 15000
+2.Mie Ayam = 20000
+Contoh Algoritma :
+Step 1 : Mendekralasikan menu, bakso, mie, jumlah, total
+Step 2 : Masukan menu = 1, maka yang dipilih bakso
+Step 3 : Masukan jumlah = 3
+Step 4 : Menghitung total harga = menu*jumlah=total
+Step 5 : Menampilkan total harga
+Pseudocode:
+deklarasi
+var menu, bakso, mie, jumlah, total
+bakso = 15000
+mie = 20000
+menu ← 1 = bakso = 15000  (if menu ← 1 = bakso, menu ← 2 = mie)
+jumlah ← 3
+total = menu*jumlah
+write(total)
